@@ -174,4 +174,4 @@ Questo progetto è distribuito con licenza [MIT](LICENSE).
 
 ## Contatti
 
-Per domande o suggerimenti, contattare [nome@email.com](mailto:nome@email.com).
+Per domande o suggerimenti, contattare [nome@email.com](mailto:giovanniiorio@proton.me).
