@@ -2,7 +2,6 @@
 
 Un sistema avanzato di analisi di neuroimmagini che utilizza un approccio multiatlante per identificare e caratterizzare le regioni cerebrali rilevanti per l'Alzheimer.
 
-![Esempio di visualizzazione multiatlante](custom_multiatlante_results/multiatlante_comparison.png)
 
 ## Obiettivo del Progetto
 
