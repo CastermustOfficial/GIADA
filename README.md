@@ -168,10 +168,7 @@ Il sistema genera diverse visualizzazioni avanzate per facilitare l'interpretazi
 - L'integrazione con dati clinici e altri biomarcatori è prevista per sviluppi futuri
 - Si prevede l'implementazione di analisi longitudinali per monitorare i cambiamenti cerebrali nel tempo
 
-## Licenza
-
-Questo progetto è distribuito con licenza [MIT](LICENSE).
 
 ## Contatti
 
-Per domande o suggerimenti, contattare [nome@email.com](mailto:giovanniiorio@proton.me).
+Per domande o suggerimenti, contattare giovanniiorio@proton.me .
