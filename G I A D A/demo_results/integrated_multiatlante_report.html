@@ -1,0 +1,546 @@
+
+            <!DOCTYPE html>
+            <html lang="it">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Report Completo di Analisi Multiatlante</title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        line-height: 1.6;
+                        color: #333;
+                        max-width: 1200px;
+                        margin: 0 auto;
+                        padding: 20px;
+                    }
+                    h1, h2, h3 {
+                        color: #2c3e50;
+                    }
+                    .header {
+                        background-color: #3498db;
+                        color: white;
+                        padding: 20px;
+                        margin-bottom: 30px;
+                        border-radius: 5px;
+                        text-align: center;
+                    }
+                    .section {
+                        margin-bottom: 30px;
+                        padding: 20px;
+                        background-color: #f9f9f9;
+                        border-radius: 5px;
+                    }
+                    table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin-bottom: 20px;
+                    }
+                    th, td {
+                        border: 1px solid #ddd;
+                        padding: 8px 12px;
+                        text-align: left;
+                    }
+                    th {
+                        background-color: #f2f2f2;
+                    }
+                    .vis-container {
+                        text-align: center;
+                        margin: 20px 0;
+                    }
+                    img {
+                        max-width: 100%;
+                        height: auto;
+                        margin: 10px 0;
+                        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+                    }
+                    .footer {
+                        text-align: center;
+                        margin-top: 30px;
+                        padding: 10px;
+                        font-size: 0.8em;
+                        color: #7f8c8d;
+                    }
+                    .vis-grid {
+                        display: grid;
+                        grid-template-columns: 1fr 1fr;
+                        gap: 20px;
+                    }
+                    .atlas-info {
+                        display: flex;
+                        justify-content: space-around;
+                        margin-bottom: 20px;
+                    }
+                    .atlas-box {
+                        text-align: center;
+                        padding: 10px;
+                        border: 1px solid #ddd;
+                        border-radius: 5px;
+                        width: 30%;
+                    }
+                    .button-link {
+                        display: inline-block;
+                        background-color: #3498db;
+                        color: white;
+                        padding: 10px 15px;
+                        text-decoration: none;
+                        border-radius: 5px;
+                        margin: 10px;
+                    }
+                    .button-link:hover {
+                        background-color: #2980b9;
+                    }
+                    .metric-highlight {
+                        font-weight: bold;
+                        color: #e74c3c;
+                    }
+                </style>
+            </head>
+            <body>
+                <div class="header">
+                    <h1>Report Completo di Analisi Multiatlante</h1>
+                    <p>Analisi integrativa di atlanti cerebrali: AAL, ASHS e Desikan-Killiany</p>
+                </div>
+            
+                <div class="section">
+                    <h2>Informazioni sul Report</h2>
+                    <p>Data e ora di generazione: 16/05/2025 18:50:31</p>
+                    <p>Directory di output: C:\Users\giova\Desktop\atlas personalized\demo_results</p>
+                </div>
+            
+                <div class="section">
+                    <h2>Riepilogo dell'Analisi</h2>
+                    <p>Totale regioni analizzate: <span class="metric-highlight">148</span></p>
+                    
+                    <div class="atlas-info">
+            
+                        <div class="atlas-box" style="background-color: #ccffcc">
+                            <h3>ASHS</h3>
+                            <p>48 regioni</p>
+                            <p>32% del totale</p>
+                        </div>
+                
+                        <div class="atlas-box" style="background-color: #ffcccc">
+                            <h3>AAL</h3>
+                            <p>55 regioni</p>
+                            <p>37% del totale</p>
+                        </div>
+                
+                        <div class="atlas-box" style="background-color: #ccccff">
+                            <h3>DESIKAN</h3>
+                            <p>45 regioni</p>
+                            <p>30% del totale</p>
+                        </div>
+                
+                    </div>
+                    
+                    <h3>Distribuzione per tipo di regione anatomica</h3>
+                    <table>
+                        <tr>
+                            <th>Tipo di Regione</th>
+                            <th>Numero di Regioni</th>
+                            <th>Percentuale</th>
+                        </tr>
+            
+                        <tr>
+                            <td>Altra</td>
+                            <td>102</td>
+                            <td>68%</td>
+                        </tr>
+                
+                        <tr>
+                            <td>Corticale</td>
+                            <td>38</td>
+                            <td>25%</td>
+                        </tr>
+                
+                        <tr>
+                            <td>Ippocampale/Mesiotemporale</td>
+                            <td>8</td>
+                            <td>5%</td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="section">
+                    <h2>Visualizzazioni</h2>
+                    
+                    <h3>Confronto degli Atlanti</h3>
+                    <div class="vis-container">
+            <img src="multiatlante_comparison.png" alt="Confronto degli atlanti" />
+                    </div>
+                    
+                    <h3>Analisi delle Regioni</h3>
+                    <div class="vis-grid">
+            
+                        <div class="vis-container">
+                            <img src="regions_heatmap.png" alt="regions_heatmap" />
+                            <p>Regions Heatmap</p>
+                        </div>
+                    
+                        <div class="vis-container">
+                            <img src="volume_distribution_by_region_type.png" alt="volume_distribution" />
+                            <p>Volume Distribution</p>
+                        </div>
+                    
+                        <div class="vis-container">
+                            <img src="metrics_correlation_heatmap.png" alt="metrics_correlation" />
+                            <p>Metrics Correlation</p>
+                        </div>
+                    
+                    </div>
+                    
+                    <h3>Visualizzazioni 3D Interattive</h3>
+                    <div style="text-align: center; margin: 20px 0;">
+            
+                                <a href="3d_aal_atlas.html" class="button-link" target="_blank">
+                                    Visualizzazione 3D - atlanti - aal
+                                </a>
+                            
+                                <a href="3d_desikan_atlas.html" class="button-link" target="_blank">
+                                    Visualizzazione 3D - atlanti - desikan
+                                </a>
+                            
+                                <a href="3d_ashs_atlas.html" class="button-link" target="_blank">
+                                    Visualizzazione 3D - atlanti - ashs
+                                </a>
+                            
+                            <a href="integrated_multiatlante.html" class="button-link" target="_blank">
+                                Visualizzazione 3D - integrated
+                            </a>
+                        
+                    </div>
+                </div>
+            
+                <div class="section">
+                    <h2>Principali Regioni Cerebrali</h2>
+                    <table>
+                        <tr>
+                            <th>#</th>
+                            <th>Regione</th>
+                            <th>Atlante</th>
+                            <th>Tipo di Regione</th>
+                            <th>Volume (voxel)</th>
+                            <th>Intensità Media</th>
+                            <th>Dev. Standard</th>
+                        </tr>
+            
+                        <tr>
+                            <td>1</td>
+                            <td>Frontal Pole</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>123176</td>
+                            <td>0.26</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>2</td>
+                            <td>Lateral Occipital Cortex, superior division</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>78232</td>
+                            <td>0.30</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>3</td>
+                            <td>Precentral Gyrus</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>68584</td>
+                            <td>0.27</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>4</td>
+                            <td>Postcentral Gyrus</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>55160</td>
+                            <td>0.27</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>5</td>
+                            <td>Precuneous Cortex</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>44984</td>
+                            <td>0.28</td>
+                            <td>0.10</td>
+                        </tr>
+                
+                        <tr>
+                            <td>6</td>
+                            <td>Middle Frontal Gyrus</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>42528</td>
+                            <td>0.27</td>
+                            <td>0.11</td>
+                        </tr>
+                
+                        <tr>
+                            <td>7</td>
+                            <td>Occipital Pole</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>42208</td>
+                            <td>0.31</td>
+                            <td>0.08</td>
+                        </tr>
+                
+                        <tr>
+                            <td>8</td>
+                            <td>AAL_Region_2202</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>40832</td>
+                            <td>0.27</td>
+                            <td>0.11</td>
+                        </tr>
+                
+                        <tr>
+                            <td>9</td>
+                            <td>Superior Frontal Gyrus</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>40640</td>
+                            <td>0.22</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>10</td>
+                            <td>Temporal Pole</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>37688</td>
+                            <td>0.18</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>11</td>
+                            <td>Lateral Occipital Cortex, inferior division</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>32712</td>
+                            <td>0.32</td>
+                            <td>0.07</td>
+                        </tr>
+                
+                        <tr>
+                            <td>12</td>
+                            <td>AAL_Region_2102</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>32448</td>
+                            <td>0.25</td>
+                            <td>0.13</td>
+                        </tr>
+                
+                        <tr>
+                            <td>13</td>
+                            <td>AAL_Region_6002</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>30584</td>
+                            <td>0.25</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>14</td>
+                            <td>AAL_Region_2002</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>27048</td>
+                            <td>0.26</td>
+                            <td>0.13</td>
+                        </tr>
+                
+                        <tr>
+                            <td>15</td>
+                            <td>Lingual Gyrus</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>27048</td>
+                            <td>0.29</td>
+                            <td>0.07</td>
+                        </tr>
+                
+                        <tr>
+                            <td>16</td>
+                            <td>ASHS_Region_80</td>
+                            <td>ASHS</td>
+                            <td>Altra</td>
+                            <td>26328</td>
+                            <td>0.18</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>17</td>
+                            <td>AAL_Region_5201</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>26160</td>
+                            <td>0.33</td>
+                            <td>0.08</td>
+                        </tr>
+                
+                        <tr>
+                            <td>18</td>
+                            <td>AAL_Region_6302</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>26120</td>
+                            <td>0.30</td>
+                            <td>0.10</td>
+                        </tr>
+                
+                        <tr>
+                            <td>19</td>
+                            <td>Frontal Orbital Cortex</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>25184</td>
+                            <td>0.22</td>
+                            <td>0.09</td>
+                        </tr>
+                
+                        <tr>
+                            <td>20</td>
+                            <td>AAL_Region_2601</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>23936</td>
+                            <td>0.21</td>
+                            <td>0.10</td>
+                        </tr>
+                
+                        <tr>
+                            <td>21</td>
+                            <td>Paracingulate Gyrus</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>23552</td>
+                            <td>0.24</td>
+                            <td>0.09</td>
+                        </tr>
+                
+                        <tr>
+                            <td>22</td>
+                            <td>Superior Parietal Lobule</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>23264</td>
+                            <td>0.29</td>
+                            <td>0.13</td>
+                        </tr>
+                
+                        <tr>
+                            <td>23</td>
+                            <td>AAL_Region_9002</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>21184</td>
+                            <td>0.19</td>
+                            <td>0.12</td>
+                        </tr>
+                
+                        <tr>
+                            <td>24</td>
+                            <td>AAL_Region_9001</td>
+                            <td>AAL</td>
+                            <td>Altra</td>
+                            <td>20824</td>
+                            <td>0.22</td>
+                            <td>0.11</td>
+                        </tr>
+                
+                        <tr>
+                            <td>25</td>
+                            <td>ASHS_Region_32</td>
+                            <td>ASHS</td>
+                            <td>Altra</td>
+                            <td>20744</td>
+                            <td>0.19</td>
+                            <td>0.11</td>
+                        </tr>
+                
+                        <tr>
+                            <td>26</td>
+                            <td>Cingulate Gyrus, anterior division</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>20736</td>
+                            <td>0.23</td>
+                            <td>0.08</td>
+                        </tr>
+                
+                        <tr>
+                            <td>27</td>
+                            <td>ASHS_Region_46</td>
+                            <td>ASHS</td>
+                            <td>Altra</td>
+                            <td>20728</td>
+                            <td>0.21</td>
+                            <td>0.11</td>
+                        </tr>
+                
+                        <tr>
+                            <td>28</td>
+                            <td>Middle Temporal Gyrus, posterior division</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>20200</td>
+                            <td>0.30</td>
+                            <td>0.09</td>
+                        </tr>
+                
+                        <tr>
+                            <td>29</td>
+                            <td>ASHS_Region_41</td>
+                            <td>ASHS</td>
+                            <td>Altra</td>
+                            <td>20088</td>
+                            <td>0.26</td>
+                            <td>0.11</td>
+                        </tr>
+                
+                        <tr>
+                            <td>30</td>
+                            <td>Cingulate Gyrus, posterior division</td>
+                            <td>DESIKAN</td>
+                            <td>Corticale</td>
+                            <td>19296</td>
+                            <td>0.25</td>
+                            <td>0.08</td>
+                        </tr>
+                
+                    </table>
+                </div>
+            
+                <div class="section">
+                    <h2>Conclusioni</h2>
+                    <p>L'analisi multiatlante ha identificato e caratterizzato con successo 148 regioni cerebrali,
+                       integrando i dati da tre diverse fonti: AAL, ASHS e Desikan-Killiany.</p>
+                    <p>L'approccio multiatlante consente una caratterizzazione più completa e dettagliata dell'anatomia cerebrale,
+                       con particolare attenzione alle regioni ippocampali/mesiotemporali, corticali e sottocorticali.</p>
+                </div>
+                
+                <div class="footer">
+                    <p>Report generato automaticamente da demo_avanzato.py</p>
+                    <p>© 2025 - Analisi Multiatlante</p>
+                </div>
+            </body>
+            </html>
+            

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "atlas personalized",
+			"path": ".."
+		},
+		{
+			"name": "ANTs-master",
+			"path": "../../ANTs-master"
+		}
+	],
+	"settings": {}
+}

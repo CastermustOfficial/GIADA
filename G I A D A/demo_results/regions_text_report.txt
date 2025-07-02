@@ -1,0 +1,901 @@
+REPORT DETTAGLIATO DELL'ANALISI MULTIATLANTE
+==================================================
+
+Numero totale di regioni analizzate: 148
+
+Contributo di ciascun atlante:
+- ASHS: 48 regioni
+- AAL: 55 regioni
+- DESIKAN: 45 regioni
+
+==================================================
+DETTAGLIO DELLE REGIONI:
+
+Regione: DESIKAN_Frontal Pole
+  Atlante: desikan
+  Volume: 123176 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Lateral Occipital Cortex, superior division
+  Atlante: desikan
+  Volume: 78232 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Precentral Gyrus
+  Atlante: desikan
+  Volume: 68584 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Postcentral Gyrus
+  Atlante: desikan
+  Volume: 55160 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Precuneous Cortex
+  Atlante: desikan
+  Volume: 44984 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.10
+
+Regione: DESIKAN_Middle Frontal Gyrus
+  Atlante: desikan
+  Volume: 42528 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Occipital Pole
+  Atlante: desikan
+  Volume: 42208 voxel
+  Intensità media: 0.31
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_2202
+  Atlante: aal
+  Volume: 40832 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Superior Frontal Gyrus
+  Atlante: desikan
+  Volume: 40640 voxel
+  Intensità media: 0.22
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Temporal Pole
+  Atlante: desikan
+  Volume: 37688 voxel
+  Intensità media: 0.18
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Lateral Occipital Cortex, inferior division
+  Atlante: desikan
+  Volume: 32712 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.07
+
+Regione: AAL_AAL_Region_2102
+  Atlante: aal
+  Volume: 32448 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.13
+
+Regione: AAL_AAL_Region_6002
+  Atlante: aal
+  Volume: 30584 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_2002
+  Atlante: aal
+  Volume: 27048 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.13
+
+Regione: DESIKAN_Lingual Gyrus
+  Atlante: desikan
+  Volume: 27048 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_80
+  Atlante: ashs
+  Volume: 26328 voxel
+  Intensità media: 0.18
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_5201
+  Atlante: aal
+  Volume: 26160 voxel
+  Intensità media: 0.33
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_6302
+  Atlante: aal
+  Volume: 26120 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.10
+
+Regione: DESIKAN_Frontal Orbital Cortex
+  Atlante: desikan
+  Volume: 25184 voxel
+  Intensità media: 0.22
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_2601
+  Atlante: aal
+  Volume: 23936 voxel
+  Intensità media: 0.21
+  Deviazione standard: 0.10
+
+Regione: DESIKAN_Paracingulate Gyrus
+  Atlante: desikan
+  Volume: 23552 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.09
+
+Regione: DESIKAN_Superior Parietal Lobule
+  Atlante: desikan
+  Volume: 23264 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.13
+
+Regione: AAL_AAL_Region_9002
+  Atlante: aal
+  Volume: 21184 voxel
+  Intensità media: 0.19
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_9001
+  Atlante: aal
+  Volume: 20824 voxel
+  Intensità media: 0.22
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_32
+  Atlante: ashs
+  Volume: 20744 voxel
+  Intensità media: 0.19
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Cingulate Gyrus, anterior division
+  Atlante: desikan
+  Volume: 20736 voxel
+  Intensità media: 0.23
+  Deviazione standard: 0.08
+
+Regione: ASHS_ASHS_Region_46
+  Atlante: ashs
+  Volume: 20728 voxel
+  Intensità media: 0.21
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Middle Temporal Gyrus, posterior division
+  Atlante: desikan
+  Volume: 20200 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_41
+  Atlante: ashs
+  Volume: 20088 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Cingulate Gyrus, posterior division
+  Atlante: desikan
+  Volume: 19296 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Angular Gyrus
+  Atlante: desikan
+  Volume: 19272 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.10
+
+Regione: ASHS_ASHS_Region_15
+  Atlante: ashs
+  Volume: 19040 voxel
+  Intensità media: 0.21
+  Deviazione standard: 0.12
+
+Regione: ASHS_ASHS_Region_16
+  Atlante: ashs
+  Volume: 19000 voxel
+  Intensità media: 0.31
+  Deviazione standard: 0.07
+
+Regione: DESIKAN_Insular Cortex
+  Atlante: desikan
+  Volume: 18728 voxel
+  Intensità media: 0.23
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_5401
+  Atlante: aal
+  Volume: 18480 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_9062
+  Atlante: aal
+  Volume: 18464 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.16
+
+Regione: AAL_AAL_Region_5022
+  Atlante: aal
+  Volume: 18400 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Supramarginal Gyrus, posterior division
+  Atlante: desikan
+  Volume: 18072 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_97
+  Atlante: ashs
+  Volume: 17672 voxel
+  Intensità media: 0.21
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_4012
+  Atlante: aal
+  Volume: 17624 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_9012
+  Atlante: aal
+  Volume: 16936 voxel
+  Intensità media: 0.19
+  Deviazione standard: 0.16
+
+Regione: ASHS_ASHS_Region_38
+  Atlante: ashs
+  Volume: 16720 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_83
+  Atlante: ashs
+  Volume: 16488 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.12
+
+Regione: ASHS_ASHS_Region_66
+  Atlante: ashs
+  Volume: 16040 voxel
+  Intensità media: 0.23
+  Deviazione standard: 0.13
+
+Regione: DESIKAN_Middle Temporal Gyrus, temporooccipital part
+  Atlante: desikan
+  Volume: 16032 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.08
+
+Regione: ASHS_ASHS_Region_79
+  Atlante: ashs
+  Volume: 15824 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.10
+
+Regione: DESIKAN_Inferior Temporal Gyrus, posterior division
+  Atlante: desikan
+  Volume: 15536 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_4011
+  Atlante: aal
+  Volume: 15528 voxel
+  Intensità media: 0.23
+  Deviazione standard: 0.10
+
+Regione: ASHS_ASHS_Region_91
+  Atlante: ashs
+  Volume: 15160 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.10
+
+Regione: AAL_AAL_Region_9011
+  Atlante: aal
+  Volume: 15152 voxel
+  Intensità media: 0.40
+  Deviazione standard: 0.20
+
+Regione: AAL_AAL_Region_9061
+  Atlante: aal
+  Volume: 15096 voxel
+  Intensità media: 0.43
+  Deviazione standard: 0.19
+
+Regione: DESIKAN_Central Opercular Cortex
+  Atlante: desikan
+  Volume: 15088 voxel
+  Intensità media: 0.33
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_8
+  Atlante: ashs
+  Volume: 14960 voxel
+  Intensità media: 0.33
+  Deviazione standard: 0.08
+
+Regione: ASHS_ASHS_Region_70
+  Atlante: ashs
+  Volume: 14824 voxel
+  Intensità media: 0.23
+  Deviazione standard: 0.12
+
+Regione: ASHS_ASHS_Region_96
+  Atlante: ashs
+  Volume: 14768 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Superior Temporal Gyrus, posterior division
+  Atlante: desikan
+  Volume: 14640 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.09
+
+Regione: DESIKAN_Occipital Fusiform Gyrus
+  Atlante: desikan
+  Volume: 14448 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.07
+
+Regione: AAL_AAL_Region_9042
+  Atlante: aal
+  Volume: 14360 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.10
+
+Regione: DESIKAN_Supramarginal Gyrus, anterior division
+  Atlante: desikan
+  Volume: 13936 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_18
+  Atlante: ashs
+  Volume: 13880 voxel
+  Intensità media: 0.35
+  Deviazione standard: 0.12
+
+Regione: ASHS_ASHS_Region_23
+  Atlante: ashs
+  Volume: 13664 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.12
+
+Regione: ASHS_ASHS_Region_44
+  Atlante: ashs
+  Volume: 13560 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_9041
+  Atlante: aal
+  Volume: 13552 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_76
+  Atlante: ashs
+  Volume: 13080 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.10
+
+Regione: ASHS_ASHS_Region_59
+  Atlante: ashs
+  Volume: 12984 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.10
+
+Regione: DESIKAN_Temporal Fusiform Cortex, posterior division
+  Atlante: desikan
+  Volume: 12752 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_72
+  Atlante: ashs
+  Volume: 12560 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_45
+  Atlante: ashs
+  Volume: 12472 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.10
+
+Regione: ASHS_ASHS_Region_78
+  Atlante: ashs
+  Volume: 12000 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)
+  Atlante: desikan
+  Volume: 11872 voxel
+  Intensità media: 0.22
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Inferior Temporal Gyrus, temporooccipital part
+  Atlante: desikan
+  Volume: 11760 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.07
+
+Regione: DESIKAN_Temporal Occipital Fusiform Cortex
+  Atlante: desikan
+  Volume: 11752 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_58
+  Atlante: ashs
+  Volume: 11752 voxel
+  Intensità media: 0.31
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_57
+  Atlante: ashs
+  Volume: 11400 voxel
+  Intensità media: 0.31
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Inferior Frontal Gyrus, pars opercularis
+  Atlante: desikan
+  Volume: 11072 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_34
+  Atlante: ashs
+  Volume: 10744 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.10
+
+Regione: ASHS_ASHS_Region_56
+  Atlante: ashs
+  Volume: 10680 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_71
+  Atlante: ashs
+  Volume: 10616 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_93
+  Atlante: ashs
+  Volume: 10536 voxel
+  Intensità media: 0.33
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_51
+  Atlante: ashs
+  Volume: 10520 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Parahippocampal Gyrus, anterior division
+  Atlante: desikan
+  Volume: 9984 voxel
+  Intensità media: 0.20
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_98
+  Atlante: ashs
+  Volume: 9960 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_88
+  Atlante: ashs
+  Volume: 9896 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Cuneal Cortex
+  Atlante: desikan
+  Volume: 9816 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.10
+
+Regione: ASHS_ASHS_Region_55
+  Atlante: ashs
+  Volume: 9688 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_69
+  Atlante: ashs
+  Volume: 9392 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Subcallosal Cortex
+  Atlante: desikan
+  Volume: 9136 voxel
+  Intensità media: 0.20
+  Deviazione standard: 0.10
+
+Regione: AAL_AAL_Region_9031
+  Atlante: aal
+  Volume: 9000 voxel
+  Intensità media: 0.22
+  Deviazione standard: 0.09
+
+Regione: DESIKAN_Parietal Opercular Cortex
+  Atlante: desikan
+  Volume: 8952 voxel
+  Intensità media: 0.36
+  Deviazione standard: 0.05
+
+Regione: ASHS_ASHS_Region_92
+  Atlante: ashs
+  Volume: 8864 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Inferior Frontal Gyrus, pars triangularis
+  Atlante: desikan
+  Volume: 8824 voxel
+  Intensità media: 0.31
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_7101
+  Atlante: aal
+  Volume: 8800 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_24
+  Atlante: ashs
+  Volume: 8632 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_7012
+  Atlante: aal
+  Volume: 8512 voxel
+  Intensità media: 0.34
+  Deviazione standard: 0.03
+
+Regione: ASHS_ASHS_Region_82
+  Atlante: ashs
+  Volume: 8512 voxel
+  Intensità media: 0.22
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_7102
+  Atlante: aal
+  Volume: 8456 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_95
+  Atlante: ashs
+  Volume: 8376 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.10
+
+Regione: ASHS_ERC
+  Atlante: ashs
+  Volume: 8224 voxel
+  Intensità media: 0.29
+  Deviazione standard: 0.07
+
+Regione: AAL_AAL_Region_7011
+  Atlante: aal
+  Volume: 8072 voxel
+  Intensità media: 0.35
+  Deviazione standard: 0.02
+
+Regione: AAL_AAL_Region_7002
+  Atlante: aal
+  Volume: 7952 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.10
+
+Regione: DESIKAN_Frontal Medial Cortex
+  Atlante: desikan
+  Volume: 7808 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_7001
+  Atlante: aal
+  Volume: 7696 voxel
+  Intensità media: 0.21
+  Deviazione standard: 0.11
+
+Regione: DESIKAN_Planum Temporale
+  Atlante: desikan
+  Volume: 7616 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_4102
+  Atlante: aal
+  Volume: 7568 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.11
+
+Regione: ASHS_Misc
+  Atlante: ashs
+  Volume: 7544 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.07
+
+Regione: AAL_AAL_Region_5301
+  Atlante: aal
+  Volume: 7528 voxel
+  Intensità media: 0.34
+  Deviazione standard: 0.06
+
+Regione: AAL_AAL_Region_4101
+  Atlante: aal
+  Volume: 7456 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.10
+
+Regione: AAL_AAL_Region_2211
+  Atlante: aal
+  Volume: 7104 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_17
+  Atlante: ashs
+  Volume: 6992 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.11
+
+Regione: AAL_AAL_Region_9071
+  Atlante: aal
+  Volume: 6952 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_9032
+  Atlante: aal
+  Volume: 6888 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Middle Temporal Gyrus, anterior division
+  Atlante: desikan
+  Volume: 6784 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.11
+
+Regione: ASHS_ASHS_Region_94
+  Atlante: ashs
+  Volume: 6584 voxel
+  Intensità media: 0.22
+  Deviazione standard: 0.10
+
+Regione: AAL_AAL_Region_9072
+  Atlante: aal
+  Volume: 6472 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.09
+
+Regione: ASHS_CA1
+  Atlante: ashs
+  Volume: 6352 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Planum Polare
+  Atlante: desikan
+  Volume: 5992 voxel
+  Intensità media: 0.18
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_2702
+  Atlante: aal
+  Volume: 5960 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.09
+
+Regione: DESIKAN_Parahippocampal Gyrus, posterior division
+  Atlante: desikan
+  Volume: 5680 voxel
+  Intensità media: 0.27
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_42
+  Atlante: ashs
+  Volume: 5672 voxel
+  Intensità media: 0.20
+  Deviazione standard: 0.09
+
+Regione: ASHS_ASHS_Region_61
+  Atlante: ashs
+  Volume: 5504 voxel
+  Intensità media: 0.31
+  Deviazione standard: 0.09
+
+Regione: DESIKAN_Frontal Opercular Cortex
+  Atlante: desikan
+  Volume: 5496 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.07
+
+Regione: AAL_AAL_Region_9120
+  Atlante: aal
+  Volume: 5320 voxel
+  Intensità media: 0.21
+  Deviazione standard: 0.08
+
+Regione: DESIKAN_Inferior Temporal Gyrus, anterior division
+  Atlante: desikan
+  Volume: 5176 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.12
+
+Regione: DESIKAN_Temporal Fusiform Cortex, anterior division
+  Atlante: desikan
+  Volume: 4880 voxel
+  Intensità media: 0.15
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_9051
+  Atlante: aal
+  Volume: 4680 voxel
+  Intensità media: 0.43
+  Deviazione standard: 0.25
+
+Regione: ASHS_ASHS_Region_60
+  Atlante: ashs
+  Volume: 4600 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.07
+
+Regione: ASHS_ASHS_Region_49
+  Atlante: ashs
+  Volume: 4440 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.07
+
+Regione: AAL_AAL_Region_9052
+  Atlante: aal
+  Volume: 4272 voxel
+  Intensità media: 0.19
+  Deviazione standard: 0.16
+
+Regione: ASHS_ASHS_Region_11
+  Atlante: ashs
+  Volume: 4240 voxel
+  Intensità media: 0.34
+  Deviazione standard: 0.05
+
+Regione: DESIKAN_Superior Temporal Gyrus, anterior division
+  Atlante: desikan
+  Volume: 4168 voxel
+  Intensità media: 0.32
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_9130
+  Atlante: aal
+  Volume: 2968 voxel
+  Intensità media: 0.23
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_4022
+  Atlante: aal
+  Volume: 2680 voxel
+  Intensità media: 0.35
+  Deviazione standard: 0.06
+
+Regione: AAL_AAL_Region_7021
+  Atlante: aal
+  Volume: 2344 voxel
+  Intensità media: 0.39
+  Deviazione standard: 0.02
+
+Regione: AAL_AAL_Region_2502
+  Atlante: aal
+  Volume: 2312 voxel
+  Intensità media: 0.23
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_7022
+  Atlante: aal
+  Volume: 2240 voxel
+  Intensità media: 0.38
+  Deviazione standard: 0.02
+
+Regione: AAL_AAL_Region_4202
+  Atlante: aal
+  Volume: 1984 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.08
+
+Regione: AAL_AAL_Region_9150
+  Atlante: aal
+  Volume: 1944 voxel
+  Intensità media: 0.53
+  Deviazione standard: 0.13
+
+Regione: AAL_AAL_Region_9110
+  Atlante: aal
+  Volume: 1824 voxel
+  Intensità media: 0.19
+  Deviazione standard: 0.10
+
+Regione: AAL_AAL_Region_8101
+  Atlante: aal
+  Volume: 1800 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_4201
+  Atlante: aal
+  Volume: 1760 voxel
+  Intensità media: 0.26
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_9022
+  Atlante: aal
+  Volume: 1656 voxel
+  Intensità media: 0.20
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_9140
+  Atlante: aal
+  Volume: 1552 voxel
+  Intensità media: 0.30
+  Deviazione standard: 0.13
+
+Regione: AAL_AAL_Region_9160
+  Atlante: aal
+  Volume: 1392 voxel
+  Intensità media: 0.34
+  Deviazione standard: 0.12
+
+Regione: AAL_AAL_Region_9082
+  Atlante: aal
+  Volume: 1272 voxel
+  Intensità media: 0.03
+  Deviazione standard: 0.10
+
+Regione: AAL_AAL_Region_9081
+  Atlante: aal
+  Volume: 1152 voxel
+  Intensità media: 0.10
+  Deviazione standard: 0.16
+
+Regione: AAL_AAL_Region_9021
+  Atlante: aal
+  Volume: 1088 voxel
+  Intensità media: 0.24
+  Deviazione standard: 0.09
+
+Regione: AAL_AAL_Region_9170
+  Atlante: aal
+  Volume: 896 voxel
+  Intensità media: 0.25
+  Deviazione standard: 0.11
+
+Regione: AAL_AAL_Region_9100
+  Atlante: aal
+  Volume: 424 voxel
+  Intensità media: 0.28
+  Deviazione standard: 0.06
+
